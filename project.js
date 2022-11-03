@@ -137,4 +137,5 @@ const analyzeArray = (array) => {
     return object;
 }
 
+
 export { capitalize, reverseString, calculator, caesarCipher, analyzeArray };
